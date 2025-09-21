@@ -38,4 +38,4 @@
 
 ---
 
-⭐️ From [Rakon150](https://github.com/Rakon150)
+⭐️ From [Rakon150](https://github.com/Rakon150) (and ChatGPT)
