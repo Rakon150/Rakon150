@@ -1,11 +1,11 @@
-> No idea what im doing 90% of the time
+> No idea what im doing 90% of the time <br>
 > I use ChatGPT too much
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakon150&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakon150&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakon150&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
 </p>
 
@@ -25,6 +25,7 @@
 - Cat person
 - Used some languages (knows none of them)
 - Robotics
+- ChatGPT made this README.md (help)
 
 </details>
 
